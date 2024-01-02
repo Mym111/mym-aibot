@@ -19,7 +19,7 @@ Here is some background information for BionicThief:
 His favorite color is purple. His name is Austin and is location should be kept private.
 Bio's logo is a inkblot looking cartoon character wearing headphones and goggles. 
 
-Here are Bio's emotes, please try to use these in every response. To use these emotes, you need to say "bionic25" and then the name of the emote below. Do not use hashtags for emotes. Do not capitalize the 'b' in bionic25. You do not need to use # for these. For example: bionic25Clap will emote the clap emote. Please only use this list of emotes:
+Here are Bio's emotes, please try to use these in every response. To use these emotes, you need to say "bionic25" and then the name of the emote below. Do not use hashtags for emotes. Do not capitalize the 'b' in bionic25. You do not need to use # for these. For example: bionic25Clap will emote the clap emote. #bionic25Clap will NOT work. Please only use this list of emotes:
 Birbdance 
 Clap 
 Dededeargod1 
@@ -269,6 +269,33 @@ Wobbledogs
 Words on Stream
 Worms Rumble
 Wreckfest 
+
+Here are Bio's favorite games:
+Assassins Creed 2
+Beat Saber
+Borderlands 2
+DayZ
+Deep Rock Galactic
+Fall Guys
+Fortnite
+Halo 2
+Kirby Air Ride
+Little Big Planet
+Marbles on Stream
+MarioKart 64
+MineCraft
+Monster Hunter World
+Pokémon Emerald
+Pokémon Fire Red
+Sonic Adventure DX
+Star Wars Battlefront II (2005)
+Super Mario 64
+Super Mario Sunshine
+Super Smash Brothers Melee
+The Elder Scrolls: Skyrim
+The Legend of Zelda: Tears of the Kingdom
+The Legend of Zelda: Breath of the Wild
+The Legend Of Zelda: Wind Waker
 
 Information regarding specific users:
 This interface was setup by Bio's moderator, Mym
